@@ -15,4 +15,7 @@ A ROS1-based self-driving vehicle system for detecting and following a red circu
 
 ---
 
+## 👤 Authors
 
+- Original code by Pranav Malik 2025
+- Edited by Bryan Nguyen 2025
